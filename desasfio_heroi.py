@@ -285,7 +285,7 @@ while True:
                 print("XP não Catalogado!") 
                     
     if opcao == "0": 
-                print("Obrigao por compartilhar o XP do seu herói!")
+                print("Obrigado por compartilhar o XP do seu herói!")
                 break 
                 
         
